@@ -1,0 +1,13 @@
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Exercicio_Abstracao\Exercicio_Abstracao\bin\Debug\netcoreapp3.1\Exercicio_Abstracao.exe
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Exercicio_Abstracao\Exercicio_Abstracao\bin\Debug\netcoreapp3.1\Exercicio_Abstracao.deps.json
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Exercicio_Abstracao\Exercicio_Abstracao\bin\Debug\netcoreapp3.1\Exercicio_Abstracao.runtimeconfig.json
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Exercicio_Abstracao\Exercicio_Abstracao\bin\Debug\netcoreapp3.1\Exercicio_Abstracao.runtimeconfig.dev.json
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Exercicio_Abstracao\Exercicio_Abstracao\bin\Debug\netcoreapp3.1\Exercicio_Abstracao.dll
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Exercicio_Abstracao\Exercicio_Abstracao\bin\Debug\netcoreapp3.1\Exercicio_Abstracao.pdb
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Exercicio_Abstracao\Exercicio_Abstracao\obj\Debug\netcoreapp3.1\Exercicio_Abstracao.csprojAssemblyReference.cache
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Exercicio_Abstracao\Exercicio_Abstracao\obj\Debug\netcoreapp3.1\Exercicio_Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Exercicio_Abstracao\Exercicio_Abstracao\obj\Debug\netcoreapp3.1\Exercicio_Abstracao.AssemblyInfoInputs.cache
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Exercicio_Abstracao\Exercicio_Abstracao\obj\Debug\netcoreapp3.1\Exercicio_Abstracao.AssemblyInfo.cs
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Exercicio_Abstracao\Exercicio_Abstracao\obj\Debug\netcoreapp3.1\Exercicio_Abstracao.dll
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Exercicio_Abstracao\Exercicio_Abstracao\obj\Debug\netcoreapp3.1\Exercicio_Abstracao.pdb
+C:\Users\Humberto Maia\Google Drive\Programação\Cursos\C#\Repos\Exercicio_Abstracao\Exercicio_Abstracao\obj\Debug\netcoreapp3.1\Exercicio_Abstracao.genruntimeconfig.cache
